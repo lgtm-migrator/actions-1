@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "github/auto-approve/package.json",
+        "github/auto-assign/package.json",
+        "github/auto-merge/package.json"
+      ]
+    }
+  }
+}
